@@ -11,7 +11,9 @@ Looking for a customizable game in React nature or swift that I can work with as
 2.[GitHub] (https://github.com/mini-eggs/Flippour)
 
 3.[GitHub] (https://github.com/JoyJing1/MinionCrush)
+
 4.[GitHub] (https://github.com/fennean1/JellyJammerGame)
+
 5.[Link to article using candy crush to customise!] (https://www.itread01.com/content/1546025966.html) 
 
 
